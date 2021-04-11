@@ -7,8 +7,8 @@ import java.lang.*;
  
 // Class Test 
 // Sahil pal & 19csu265 
-// Question - 19 : To find the siblings of a given node in binary tree given in the form of an array
-// But limitation of this program is that, it should be a complete binary tree 
+// Question - 19 : To find the siblings of a given node in binary tree given in the form of an array.
+// But limitation of this program is that, it should be a complete binary tree.
 // This can be solved if empty node to form complete binary tree are filled with 0s.
 
 public class Tree
