@@ -44,6 +44,6 @@ public class StableCount_sort {
 		}
 		
 		StableCount(array,count);
-		
+		 
 	}
 }
